@@ -1352,7 +1352,7 @@ window.DASHBOARD_DATA = {
           points: [
             {
               text: "持續整合（CI）",
-              desc: "每次要合併的改動都先通過自動化驗證，Hello一次都不漏掉。",
+              desc: "每次要合併的改動都先通過自動化驗證，一次都不漏掉。",
               done: true,
             },
             {
@@ -1524,7 +1524,7 @@ window.DASHBOARD_DATA = {
             {
               text: "語法對，內容不一定對",
               desc: "逗號引號都在，值寫錯照樣讓儀表板顯示錯的東西。",
-              done: false,
+              done: true,
             },
             {
               text: "check-data.js",
