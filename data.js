@@ -1581,7 +1581,7 @@ window.DASHBOARD_DATA = {
             {
               text: "一個人也要有人看",
               desc: "拉取請求原本靠別人看過才合併，AI 可以先補上這個位置。",
-              done: false,
+              done: true,
             },
             {
               text: "事實與意圖",
